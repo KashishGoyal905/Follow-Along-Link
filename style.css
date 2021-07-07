@@ -34,8 +34,8 @@ html {
   
   .highlight {
     transition: all 0.2s;
-    border-bottom: 2px solid white;
-    position: absolute;
+    border-bottom: 2px solid rgb(228, 41, 41);
+    position: relative;
     top: 0;
     background: white;
     left: 0;
